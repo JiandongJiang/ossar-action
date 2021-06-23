@@ -1,5 +1,5 @@
 # github/ossar-action
-
+ 
 ![OSSAR windows-latest](https://github.com/github/ossar-action/workflows/OSSAR%20windows-latest/badge.svg)  
 ![OSSAR ubuntu-latest](https://github.com/github/ossar-action/workflows/OSSAR%20ubuntu-latest/badge.svg)
 
